@@ -1,6 +1,5 @@
 import { Button } from "@/components/ui/button";
 import { Download } from "lucide-react";
-import pf from "../assets/react.svg";
 
 const About = () => {
   return (
